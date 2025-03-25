@@ -1,0 +1,10 @@
+
+# Ignore Eclipse/STM32CubeIDE files
+.settings/
+
+
+/Debug/
+.settings
+DEBUG
+
+.mxproject
